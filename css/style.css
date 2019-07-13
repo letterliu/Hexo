@@ -29,6 +29,7 @@ nav a.tag.article-tag {
     color: #3273dc; } }
 
 .navbar-main {
+  border-bottom: 1px dotted #c8fb38;
   transition: 0.1s ease-in; }
   .navbar-main .navbar-logo {
     background: url();
@@ -39,7 +40,7 @@ nav a.tag.article-tag {
     text-align: center;
     font-weight: bolder; }
   .navbar-main a.navbar-item.is-active {
-    color: #3273dc; }
+    color: #c8fb38; }
   .navbar-main .toc .navbar-dropdown {
     overflow-y: auto;
     max-height: 500px; }
