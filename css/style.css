@@ -8,7 +8,8 @@ textarea {
   font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
 
 body {
-  background: #fedbd0; }
+  background: rgba(254, 219, 208, 0.3);
+  letter-spacing: 0.5px; }
 
 hr {
   background-color: #363636; }
@@ -28,9 +29,9 @@ nav a.tag.article-tag {
     color: #3273dc; } }
 
 .navbar-main {
-  border-bottom: 1px solid #dbdbdb;
   transition: 0.1s ease-in; }
   .navbar-main .navbar-logo {
+    background: url();
     font-weight: 600;
     font-size: 1.5rem; }
   .navbar-main .navbar-item {
@@ -49,8 +50,12 @@ nav a.tag.article-tag {
 
 .article .article-title a,
 .article .article-meta a {
-  border-bottom: 1px dotted transparent;
+  border-bottom: 1px dotted black;
   color: inherit;
+  color: #ff6859;
+  text-transform: uppercase;
+  letter-spacing: -0.2rem;
+  font-weight: 900;
   font-family: "Input Serif", serif; }
   .article .article-title a:hover,
   .article .article-meta a:hover {
