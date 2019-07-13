@@ -51,15 +51,11 @@ nav a.tag.article-tag {
 .article .article-title a,
 .article .article-meta a {
   border-bottom: 1px dotted black;
-  color: inherit;
   color: #ff6859;
   text-transform: uppercase;
   letter-spacing: -0.2rem;
   font-weight: 900;
   font-family: "Input Serif", serif; }
-  .article .article-title a:hover,
-  .article .article-meta a:hover {
-    border-bottom-color: black; }
 
 .article .article-meta {
   text-transform: uppercase;
