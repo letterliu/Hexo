@@ -8,6 +8,7 @@ textarea {
   font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
 
 body {
+  background: rgba(254, 219, 208, 0.3);
   letter-spacing: 0.5px; }
 
 hr {
@@ -34,7 +35,7 @@ nav a.tag.article-tag {
     font-weight: 600;
     font-size: 1.5rem; }
   .navbar-main .navbar-item {
-    color: #fedbd0;
+    color: #fff4f1;
     text-align: center;
     font-weight: bolder; }
   .navbar-main a.navbar-item.is-active {
@@ -52,7 +53,7 @@ nav a.tag.article-tag {
   border-bottom: 1px dotted black;
   color: #6b38fb;
   text-transform: uppercase;
-  letter-spacing: -0.2rem;
+  letter-spacing: -0.15rem;
   font-weight: 900;
   font-family: "Input Serif", serif; }
 
