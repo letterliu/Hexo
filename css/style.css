@@ -14,7 +14,7 @@ hr {
   background-color: #363636; }
 
 .navbar {
-  background: #ff6859; }
+  background: #6b38fb; }
 
 nav a.tag.article-tag {
   text-decoration: none;
@@ -50,7 +50,7 @@ nav a.tag.article-tag {
 .article .article-title a,
 .article .article-meta a {
   border-bottom: 1px dotted black;
-  color: #ff6859;
+  color: #6b38fb;
   text-transform: uppercase;
   letter-spacing: -0.2rem;
   font-weight: 900;
